@@ -1,5 +1,5 @@
 
-%% Initialization
+%% Initialization.
 
 sampleRate500kHz = 500e3; % Sample rate of 500K Hz
 sampleRate20kHz  = 20e3; % Sample rate of 20K Hz
